@@ -54,6 +54,7 @@ flutter_icons:
 flutter:
   assets:
     - assets/splashscreen.png
+    - assets/bgc
 
  
  
